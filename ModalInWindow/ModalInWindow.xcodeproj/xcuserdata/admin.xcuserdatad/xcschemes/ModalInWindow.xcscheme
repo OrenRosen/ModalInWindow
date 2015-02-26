@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "840B8D241A8E683F0000C4F1"
+               BlueprintIdentifier = "841614311A9F326C00BE1D4D"
                BuildableName = "ModalInWindow.app"
                BlueprintName = "ModalInWindow"
                ReferencedContainer = "container:ModalInWindow.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "840B8D3D1A8E683F0000C4F1"
+               BlueprintIdentifier = "8416144A1A9F326D00BE1D4D"
                BuildableName = "ModalInWindowTests.xctest"
                BlueprintName = "ModalInWindowTests"
                ReferencedContainer = "container:ModalInWindow.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "840B8D3D1A8E683F0000C4F1"
+               BlueprintIdentifier = "8416144A1A9F326D00BE1D4D"
                BuildableName = "ModalInWindowTests.xctest"
                BlueprintName = "ModalInWindowTests"
                ReferencedContainer = "container:ModalInWindow.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "840B8D241A8E683F0000C4F1"
+            BlueprintIdentifier = "841614311A9F326C00BE1D4D"
             BuildableName = "ModalInWindow.app"
             BlueprintName = "ModalInWindow"
             ReferencedContainer = "container:ModalInWindow.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "840B8D241A8E683F0000C4F1"
+            BlueprintIdentifier = "841614311A9F326C00BE1D4D"
             BuildableName = "ModalInWindow.app"
             BlueprintName = "ModalInWindow"
             ReferencedContainer = "container:ModalInWindow.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "840B8D241A8E683F0000C4F1"
+            BlueprintIdentifier = "841614311A9F326C00BE1D4D"
             BuildableName = "ModalInWindow.app"
             BlueprintName = "ModalInWindow"
             ReferencedContainer = "container:ModalInWindow.xcodeproj">

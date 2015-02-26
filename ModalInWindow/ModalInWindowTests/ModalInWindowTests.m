@@ -1,19 +1,19 @@
 //
-//  testTests.m
-//  testTests
+//  ModalInWindowTests.m
+//  ModalInWindowTests
 //
-//  Created by Oren Rosenblum on 2/13/15.
-//  Copyright (c) 2015 admin. All rights reserved.
+//  Created by admin on 2/26/15.
+//  Copyright (c) 2015 Oren Rosenblum. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface testTests : XCTestCase
+@interface ModalInWindowTests : XCTestCase
 
 @end
 
-@implementation testTests
+@implementation ModalInWindowTests
 
 - (void)setUp {
     [super setUp];

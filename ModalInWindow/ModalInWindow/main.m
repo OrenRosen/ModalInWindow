@@ -1,9 +1,9 @@
 //
 //  main.m
-//  test
+//  ModalInWindow
 //
-//  Created by Oren Rosenblum on 2/13/15.
-//  Copyright (c) 2015 admin. All rights reserved.
+//  Created by admin on 2/26/15.
+//  Copyright (c) 2015 Oren Rosenblum. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

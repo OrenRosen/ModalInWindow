@@ -7,15 +7,12 @@
 //
 
 #import "ViewController.h"
-#import "nav.h"
-
 #import "ModalViewController.h"
 
 @interface ViewController () <UITableViewDataSource, UITableViewDelegate, ModalViewControllerDelegate>
 
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 @property (weak, nonatomic) IBOutlet UIButton *button;
-@property (weak, nonatomic) IBOutlet UIView *topView;
 
 @property (strong, nonatomic) UIWindow *topWindow;
 
@@ -25,21 +22,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
-    
-    [self.view bringSubviewToFront:self.button];
-    [self.view bringSubviewToFront:self.topView];
-}
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-
-
-- (void)viewDidAppear:(BOOL)animated
-{
-    [super viewDidAppear:animated];
 }
 
 
@@ -69,7 +51,7 @@
     
     ModalViewController *modal = [self createModalViewController];
     [self createTopWindow];
-
+    
     self.topWindow.rootViewController = modal;
     
     [self presentTopWindowAsModalViewController];

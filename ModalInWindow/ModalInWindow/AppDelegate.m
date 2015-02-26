@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  test
+//  ModalInWindow
 //
-//  Created by Oren Rosenblum on 2/13/15.
-//  Copyright (c) 2015 admin. All rights reserved.
+//  Created by admin on 2/26/15.
+//  Copyright (c) 2015 Oren Rosenblum. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -41,18 +41,5 @@
 - (void)applicationWillTerminate:(UIApplication *)application {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
-
-//
-//- (NSUInteger)application:(UIApplication *)application supportedInterfaceOrientationsForWindow:(UIWindow *)window
-//{
-//    
-//    if (window != self.window) {
-////        NSLog(@" ***** window is window 1 = %@", window);
-//        return UIInterfaceOrientationMaskAll;
-//    } else {
-////        NSLog(@" ***** window portraitttt = %@", window);
-//        return UIInterfaceOrientationMaskPortrait;
-//    }
-//}
 
 @end
